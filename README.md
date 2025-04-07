@@ -1,16 +1,12 @@
-## Hi there 👋
+## 😉はじめまして!EiveLL here.
 
-<!--
-**EiveLL/EiveLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student majoring in Intelligent Science and Technology.   
+ArchLinux is the best Linux distribution.   
+I want to get off work.🥲   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EiveLL&show_bg=1&count_private=true&show_icons=true&title_color=b57ed2&icon_color=b57ed2&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EiveLL&show_bg=1&title_color=b57ed2&icon_color=b57ed2&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+</a>
